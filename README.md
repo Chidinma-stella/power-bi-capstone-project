@@ -38,7 +38,7 @@ The preferred cuisine is Mexican.
 It has the sum of overall rating by name and cuisine which shows us that the highest rated restaurant does not serve Mexican dishes,  Instead they serve fast food.
 
 ### Consumer Demographic 
-![](consumer.png)
+![](consumer_demo.png)
 Shows us the count of consumers id which is 138
 Consist of consumers demographics which include age_group, marital_status, occupation, transportation method, city, preferred cuisine.
 
